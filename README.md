@@ -1,6 +1,6 @@
-**[Assignment]{.underline}**
+**Assignment**
 
-[]{.underline}
+
 
 **Use Case Scenario**
 
@@ -19,167 +19,67 @@ Jenkins.
 -   **Frontend yml file**
 
 ![](.//media/image1.png)
-
--   ![](.//media/image2.png){width="6.684722222222222in"
-    height="3.4458333333333333in"}**production yml file**
+**production yml file**
+-   ![](.//media/image2.png)
 
 -   **testing yml file**
 
 ![](.//media/image3.png)
-**[ingress.yml file]{.underline}**
 
-[]{.underline}
+**ingress.yml file**
+
+
 
 ![](.//media/image4.png)
 
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
 
 -   **build and push image frontend**
 
-[]{.underline}
+
 
 ![](.//media/image5.png)![](.//media/image6.png)
 
-[]{.underline}
-
-[]{.underline}
 
 -   **build and push image testing**
 
-![](.//media/image7.png) [ ]{.underline}
+![](.//media/image7.png)
 
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
 
 -   **build and push image production**
 
-[]{.underline}
 
-[]{.underline}
 
-![](.//media/image8.png){width="6.6930555555555555in"
-height="3.7055555555555557in"} [ ]{.underline}
+![](.//media/image8.png)
 
-![](.//media/image9.png){width="6.6930555555555555in"
-height="2.7368055555555557in"}
+![](.//media/image9.png)
 
 -   **Dockerfile**
 
-![](.//media/image10.png){width="6.6930555555555555in"
-height="1.7020833333333334in"}
+![](.//media/image10.png)
 
-[ ]{.underline}
 
-[]{.underline}
+**Docker Pushed images**
 
-[]{.underline}
 
-**[Docker Pushed images]{.underline}**
-
-[]{.underline}
 
 -   **testing image**
 
-![](.//media/image11.png)
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
+![](.//media/image11.png){
 
 -   **Prod image**
 
 ![](.//media/image12.png)
-[]{.underline}
 
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
 
 -   **frontend image**
 
 ![](.//media/image13.png)
 
-[]{.underline}
 
-[]{.underline}
 
-[]{.underline}
+**Output**
 
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-**[Output]{.underline}**
-
--   **testing deploymnet[\
-    ]{.underline}**
+-   **testing deploymnet**
 
 ![](.//media/image14.png)
 
@@ -187,86 +87,8 @@ height="1.7020833333333334in"}
 
 ![](.//media/image15.png)
 
--   ![](.//media/image16.png)**production deployment**
+**production deployment**
 
-[]{.underline}
+-   ![](.//media/image16.png)
 
-[]{.underline}
 
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
-
-[]{.underline}
