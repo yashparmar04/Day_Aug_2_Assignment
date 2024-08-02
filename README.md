@@ -1,11 +1,6 @@
 **Assignment**
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
-#README.md
 **Use Case Scenario**
 
 Your company is developing a new e-commerce application consisting of
