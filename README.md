@@ -1,7 +1,11 @@
 **Assignment**
 
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> origin/main
+#README.md
 **Use Case Scenario**
 
 Your company is developing a new e-commerce application consisting of
@@ -64,7 +68,7 @@ Jenkins.
 
 -   **testing image**
 
-![](.//media/image11.png){
+![](.//media/image11.png)
 
 -   **Prod image**
 
