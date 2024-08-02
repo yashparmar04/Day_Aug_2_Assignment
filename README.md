@@ -19,9 +19,8 @@ Jenkins.
 -   **Frontend yml file**
 
 ![](.//media/image1.png)
-
--   ![](.//media/image2.png){width="6.684722222222222in"
-    height="3.4458333333333333in"}**production yml file**
+**production yml file**
+-   ![](.//media/image2.png)
 
 -   **testing yml file**
 
